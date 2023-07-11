@@ -1,0 +1,100 @@
+{
+  "Table1": [
+    {
+      "ID": 364,
+      "HAKEDISTARIHI": "16.06.2023",
+      "BELGETARIHI": "16.06.2023",
+      "SUBEADI": "Denizbank Tunalıhilmi Şube",
+      "TIP": "HAKEDIS",
+      "EUROKUR": "25,8571",
+      "KURTARIH": "21.06.2023",
+      "DURUM": "GÖNDERILDI",
+      "FIRMA": "DENIZBANK",
+      "TASRA": "0",
+      "DONEM": "2023",
+      "OTURUM": 0
+    }
+  ],
+  "Table2": [
+    {
+      "ID": 2997,
+      "HAKEDISID": 364,
+      "ATS": "1",
+      "POZNO": "İ-D-62",
+      "POZID": 8324,
+      "POZADI": "ŞEHİR İÇİ NAKLİYE İŞLERİ(Basit tamir ve tadilat işlerinde)",
+      "BIRIMI": "Adet",
+      "MIKTAR": "2",
+      "PARABIRIMI": "TL",
+      "BIRIMFIYAT": "750,4417828571429",
+      "TOPLAM": "1500,88356571429",
+      "ACIKLAMA": null,
+      "METRAJTABLE": "[\r\n  {\r\n    \"IMALATYERI\": \"ŞUBE  27/05/2023\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"1\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"ŞUBE  14/06/2023\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"2\"\r\n  }\r\n]",
+      "ISARETLE": null
+    },
+    {
+      "ID": 2999,
+      "HAKEDISID": 364,
+      "ATS": "4",
+      "POZNO": "İ-H-82",
+      "POZID": 8623,
+      "POZADI": "MEVCUT OPERASYON BÖLMESİ DEMONTAJI",
+      "BIRIMI": "m²",
+      "MIKTAR": "23,202",
+      "PARABIRIMI": "TL",
+      "BIRIMFIYAT": "484,69192350357133",
+      "TOPLAM": "11245,8220091299",
+      "ACIKLAMA": null,
+      "METRAJTABLE": "[\r\n  {\r\n    \"IMALATYERI\": \"ZEMİN KAT  27/05/2023\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"1,45\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"2,32\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"1\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"1,50\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"2,4\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"2\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"2,80\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"4,48\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"3\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"ZEMİN KAT 14/06/2023\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"3,20\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"10,24\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"4\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"0,72\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1,152\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"5\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"1,10\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1,76\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"6\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"0,50\",\r\n    \"BOY\": \"1,70\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"0,85\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"7\"\r\n  }\r\n]",
+      "ISARETLE": null
+    },
+    {
+      "ID": 3000,
+      "HAKEDISID": 364,
+      "ATS": "2",
+      "POZNO": "İ-H-44",
+      "POZID": 8585,
+      "POZADI": "OPERASYON BÖLMESİ AHŞAP DİKME YAPILMASI",
+      "BIRIMI": "mt",
+      "MIKTAR": "53,99",
+      "PARABIRIMI": "TL",
+      "BIRIMFIYAT": "692,8949281571428",
+      "TOPLAM": "37409,3971712041",
+      "ACIKLAMA": null,
+      "METRAJTABLE": "[\r\n  {\r\n    \"IMALATYERI\": \"ZEMİN KAT  27/05/2023\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"3,20\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"6,4\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"1\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"3,2\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"2\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"3,20\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"6,4\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"3\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"3,2\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"4\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"0,72\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1,44\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"5\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"3,2\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"6\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"1,10\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"2,2\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"7\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"3,2\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"8\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"2,41\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"2,41\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"9\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"ZEMİN KAT 14/06/2023\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"3,37\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"6,74\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"10\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"3,2\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"11\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"4\",\r\n    \"EN\": \"0,40\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1,6\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"12\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"4\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"6,4\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"13\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"0,50\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"14\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"2\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"1,70\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"3,4\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"15\"\r\n  }\r\n]",
+      "ISARETLE": null
+    },
+    {
+      "ID": 3001,
+      "HAKEDISID": 364,
+      "ATS": "3",
+      "POZNO": "İ-H-51",
+      "POZID": 8592,
+      "POZADI": "MASA DEMONTAJ+MONTAJ YAPILMASI",
+      "BIRIMI": "Adet",
+      "MIKTAR": "6",
+      "PARABIRIMI": "TL",
+      "BIRIMFIYAT": "393,697191525",
+      "TOPLAM": "2362,18314915",
+      "ACIKLAMA": null,
+      "METRAJTABLE": "[\r\n  {\r\n    \"IMALATYERI\": \"ZEMİN KAT \",\r\n    \"BENZER\": \"6\",\r\n    \"EN\": \"\",\r\n    \"BOY\": \"\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"6\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"1\"\r\n  }\r\n]",
+      "ISARETLE": null
+    },
+    {
+      "ID": 3066,
+      "HAKEDISID": 364,
+      "ATS": "5",
+      "POZNO": "İ-H-83",
+      "POZID": 8624,
+      "POZADI": "MEVCUT OPERASYON BÖLMESİ MONTAJI",
+      "BIRIMI": "m²",
+      "MIKTAR": "2,912",
+      "PARABIRIMI": "TL",
+      "BIRIMFIYAT": "320,1620052464286",
+      "TOPLAM": "932,3117592776",
+      "ACIKLAMA": null,
+      "METRAJTABLE": "[\r\n  {\r\n    \"IMALATYERI\": \"ZEMİN KAT\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"0,72\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1,152\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"1\"\r\n  },\r\n  {\r\n    \"IMALATYERI\": \"\",\r\n    \"BENZER\": \"1\",\r\n    \"EN\": \"1,10\",\r\n    \"BOY\": \"1,60\",\r\n    \"YUKSEKLIK\": \"\",\r\n    \"MINHA\": \"\",\r\n    \"TOPLAM\": \"1,76\",\r\n    \"ACIKLAMA\": \"\",\r\n    \"SIRA\": \"2\"\r\n  }\r\n]",
+      "ISARETLE": null
+    }
+  ]
+}
